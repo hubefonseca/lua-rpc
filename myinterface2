@@ -1,0 +1,7 @@
+myinterface = { foo = function (a,b,c)
+                 return a-b, "alo2 alo2"
+               end,
+          boo = function (n)
+                  return n
+                end
+        }
